@@ -67,3 +67,11 @@
         - ★★ 예외처리, 디버깅 : 디버깅하면서 예외찾고 거기에 예외처리
         - 내장함수
 
+## 5일차
+- 파이썬 학습
+    - 파이썬 응용
+        - OS내 디렉토리 검색
+        - 아스키 및 유니코드
+        - 주소록 앱 만들기
+        ![주소록앱](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata01.gif)
+
