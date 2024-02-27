@@ -96,7 +96,7 @@
                 if self.__name == name: # 찾는 이름 존재
                     return True
                 else:
-                    return False
+                    return False  
                 
             def getInfo(self):
                 return self.__name, self.__phoneNumber, self.__eMail, self.__addr
