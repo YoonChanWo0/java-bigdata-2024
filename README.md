@@ -74,7 +74,7 @@
         - 아스키 및 유니코드
         - 주소록 앱 만들기
 
-        ...python
+        ```python
         class Contact: # 주소록 클래스
                 # 생성자
                 def __init__(self, name, phoneNumber, eMail, addr) -> None:
@@ -100,7 +100,7 @@
                     
                 def getInfo(self):
                     return self.__name, self.__phoneNumber, self.__eMail, self.__addr
-        ...        
+        ```        
 
 
 
@@ -110,4 +110,4 @@
         - Windows App 만들기(PyQt 5)
 
 
-         ![QtApp](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata02.gif)
+         ![QtApp](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata02.png)
