@@ -114,14 +114,14 @@
 
 
 ## 5일차
-    - 파이썬 학습
-        - PyQt5 학습 이어서
+- 파이썬 학습
+    - PyQt5 학습 이어서
 
-            - QWidget 자식 클래스 종류 학습
+       - QWidget 자식 클래스 종류 학습
 
 ![QtApp](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata03.png)
 
-            - Naver 뉴스API 검색 앱
+- Naver 뉴스API 검색 앱
 
 ![NaverApp](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata04.png)
 
