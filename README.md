@@ -121,5 +121,7 @@
 
 ![QtApp](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata03.png)
 
+            - Naver 뉴스API 검색 앱
+
 ![NaverApp](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata04.png)
 
