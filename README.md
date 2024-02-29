@@ -137,13 +137,11 @@
             - TTS
 
 
-
-
-
-
             - QRcode 생성기
+
+        
             ![QR코드](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata06.png)
-            
+
 
             - 구글번역기앱
 
