@@ -2,20 +2,17 @@
 <ui version="4.0">
  <class>App</class>
  <widget class="QWidget" name="App">
-  <property name="enabled">
-   <bool>true</bool>
-  </property>
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
+    <width>600</width>
     <height>250</height>
    </rect>
   </property>
   <property name="maximumSize">
    <size>
-    <width>400</width>
+    <width>600</width>
     <height>250</height>
    </size>
   </property>
@@ -30,18 +27,15 @@
   <widget class="QWidget" name="verticalLayoutWidget">
    <property name="geometry">
     <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>532</width>
-     <height>251</height>
+     <x>10</x>
+     <y>10</y>
+     <width>581</width>
+     <height>231</height>
     </rect>
    </property>
    <layout class="QVBoxLayout" name="verticalLayout">
     <item>
      <widget class="QLabel" name="label">
-      <property name="enabled">
-       <bool>true</bool>
-      </property>
       <property name="font">
        <font>
         <family>Bauhaus 93</family>
@@ -49,11 +43,11 @@
        </font>
       </property>
       <property name="styleSheet">
-       <string notr="true">color:red;
-background-color:black</string>
+       <string notr="true">color : red;
+background-color : black;</string>
       </property>
       <property name="text">
-       <string>What a terrible world~</string>
+       <string>What a terrible World!</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>

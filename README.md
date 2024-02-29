@@ -113,7 +113,7 @@
          ![QtApp](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata02.png)
 
 
-## 5일차
+## 6일차(24.02.28)
 - 파이썬 학습
     - PyQt5 학습 이어서
 
@@ -124,4 +124,28 @@
 - Naver 뉴스API 검색 앱
 
 ![NaverApp](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata04.png)
+
+## 7일차
+- 파이썬 학습
+    - PyQt5 계속
+        - Naver 뉴스 API 검색 앱 마무리
+        - json 학습
+        - PyQt5
+            - 스레드 개념, 학습
+            ![스레드](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata05.png)
+
+            - TTS
+
+            - QRcode 생성기
+            ![QR코드](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata06.png)
+
+            - 구글번역기앱
+
+            ![구글번역](https://raw.githubusercontent.com/YoonChanWo0/java-bigdata-2024/main/images/bigdata07.png)
+
+## 8일차
+- 파이썬 응용
+    - 파이썬 자동화
+
+
 
